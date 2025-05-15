@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using testparser.Entity;
+using ParserFortTelecom.Entity;
 
-namespace testparser.Parsers.Interfaces
+namespace ParserFortTelecom.Parsers.Interfaces
 {
     interface ISwitchParser
     {

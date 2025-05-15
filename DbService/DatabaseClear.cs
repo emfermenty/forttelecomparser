@@ -1,23 +1,23 @@
-﻿using System;
+using Npgsql;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Npgsql;
 
-namespace testparser.DbService
+namespace ParserFortTelecom.DbService
 {
     internal class DatabaseClear
     {
         private readonly string _connectionString;
 
-        public DatabaseClear(string connectionString)
+        public DatabaseClear(DatabaseConnection connection)
         {
-            _connectionString = connectionString;
+            _connectionString = connection.ConnectionString;
         }
         public void DeleteSwitchers()
         {
-            using (NpgsqlConnection conn = new NpgsqlConnection(_connectionString)) 
+            using (NpgsqlConnection conn = new NpgsqlConnection(_connectionString))
             {
                 conn.Open();
                 string query = $"CALL prc_delete_all_switches()";
