@@ -524,6 +524,8 @@
           }
         }
       },
+<<<<<<< HEAD
+=======
       "PdfPig/0.1.10": {
         "type": "package",
         "compile": {
@@ -573,6 +575,7 @@
           }
         }
       },
+>>>>>>> 3667184 (working parser)
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {
         "type": "package",
         "runtimeTargets": {
@@ -3073,6 +3076,8 @@
         "npoi.nuspec"
       ]
     },
+<<<<<<< HEAD
+=======
     "PdfPig/0.1.10": {
       "sha512": "9baMcYq7yL0QuaI0ZGq24EB5HY6oVa8ZhspEgYfo4gXpTLqk8RMIMlxtWr3mwuxguheIdscIFH2TN77y5y4L8g==",
       "type": "package",
@@ -3191,6 +3196,7 @@
         "pdfpig.png"
       ]
     },
+>>>>>>> 3667184 (working parser)
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {
       "sha512": "7VSGO0URRKoMEAq0Sc9cRz8mb6zbyx/BZDEWhgPdzzpmFhkam3fJ1DAGWFXBI4nGlma+uPKpfuMQP5LXRnOH5g==",
       "type": "package",
@@ -7296,7 +7302,10 @@
       "Microsoft.IdentityModel.Clients.ActiveDirectory >= 5.3.0",
       "NPOI >= 2.7.2",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.3",
+<<<<<<< HEAD
+=======
       "PdfPig >= 0.1.10",
+>>>>>>> 3667184 (working parser)
       "System.Configuration.ConfigurationManager >= 9.0.3"
     ]
   },
@@ -7369,10 +7378,13 @@
             "target": "Package",
             "version": "[9.0.3, )"
           },
+<<<<<<< HEAD
+=======
           "PdfPig": {
             "target": "Package",
             "version": "[0.1.10, )"
           },
+>>>>>>> 3667184 (working parser)
           "System.Configuration.ConfigurationManager": {
             "target": "Package",
             "version": "[9.0.3, )"

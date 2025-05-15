@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "f07lf0k7mRwrGiscuZIX5fAf6r02cfPXjUUKswDJO7OQPJQ0S5Yc+70Xh9+mss2LdYdfU9pxqPlSlmU6nGxxhw==",
+=======
   "dgSpecHash": "BRWiW2JyqCAc7iBwpP6nK+dgqwcXcVwkc/krhoiCYPLxwI8bPSztrQOct+y1+trbmTQnKCBpXL8jVusQRwFGRg==",
+>>>>>>> 3667184 (working parser)
   "success": true,
   "projectFilePath": "C:\\Users\\demra\\source\\repos\\ParserFortTelecom\\ParserFortTelecom\\ParserFortTelecom.csproj",
   "expectedPackageFiles": [
@@ -32,7 +36,10 @@
     "C:\\Users\\demra\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
     "C:\\Users\\demra\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.3\\npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.sha512",
     "C:\\Users\\demra\\.nuget\\packages\\npoi\\2.7.2\\npoi.2.7.2.nupkg.sha512",
+<<<<<<< HEAD
+=======
     "C:\\Users\\demra\\.nuget\\packages\\pdfpig\\0.1.10\\pdfpig.0.1.10.nupkg.sha512",
+>>>>>>> 3667184 (working parser)
     "C:\\Users\\demra\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\demra\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\demra\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",

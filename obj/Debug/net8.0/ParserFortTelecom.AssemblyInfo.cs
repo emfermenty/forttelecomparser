@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParserFortTelecom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87589d010abb8afc2edb9af6c89e44f54049317e")]
+>>>>>>> 3667184 (working parser)
 [assembly: System.Reflection.AssemblyProductAttribute("ParserFortTelecom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParserFortTelecom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

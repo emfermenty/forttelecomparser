@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿using Npgsql;
+=======
 using Npgsql;
+>>>>>>> 3667184 (working parser)
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -69,10 +69,13 @@
               "target": "Package",
               "version": "[9.0.3, )"
             },
+<<<<<<< HEAD
+=======
             "PdfPig": {
               "target": "Package",
               "version": "[0.1.10, )"
             },
+>>>>>>> 3667184 (working parser)
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[9.0.3, )"

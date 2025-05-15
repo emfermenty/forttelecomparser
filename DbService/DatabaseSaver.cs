@@ -5,9 +5,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+
 public class DatabaseSaver
 {
     private readonly string _connectionString;
+
+=======
+public class DatabaseSaver
+{
+    private readonly string _connectionString;
+>>>>>>> 3667184 (working parser)
     public DatabaseSaver(DatabaseConnection connection)
     {
         _connectionString = connection.ConnectionString;
@@ -39,6 +47,10 @@ public class DatabaseSaver
             conn.Close();
         }
     }
+<<<<<<< HEAD
+}
+
+=======
     public void falseall()
     {
         using (NpgsqlConnection conn = new NpgsqlConnection(_connectionString))
@@ -49,3 +61,4 @@ public class DatabaseSaver
         }
     }
 }
+>>>>>>> 3667184 (working parser)
